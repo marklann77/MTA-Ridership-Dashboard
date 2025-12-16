@@ -1,0 +1,11 @@
+Rank,Station/complex,Lines,Ridership,Georeference
+1,Times Sq-42 St/Port Authority Bus Terminal,"A, C, E, B, D, F, M, N, Q, R, W, S, 1, 2, 3, 7","57,743,486",POINT (-73.986754 40.754672)
+2,Grand Central-42 St,"S, 4, 5, 6, 7","33,496,874",POINT (-73.976848 40.751776)
+3,34 St-Herald Sq,"B, D, F, M, N, Q, R, W","25,012,549",POINT (-73.98795 40.749567)
+4,14 St-Union Sq,"L, N, Q, R, W, 4, 5, 6","22,811,597",POINT (-73.990568 40.735736)
+5,Fulton St,"A, C, J, Z, 2, 3, 4, 5","19,221,396",POINT (-74.007582 40.710374)
+6,34 St-Penn Station,"A, C, E","18,393,456",POINT (-73.993391 40.752287)
+7,59 St-Columbus Circle,"A, C, B, D, 1","16,884,912",POINT (-73.981929 40.768247)
+8,34 St-Penn Station,"1, 2, 2003","16,373,975",POINT (-73.991057 40.750373)
+9,74 St-Broadway/Jackson Heights-Roosevelt Av,"E, F, M, R, 7","15,086,001",POINT (-73.891338 40.746644)
+10,Flushing-Main St,7,"14,592,853",POINT (-73.83003 40.7596)
